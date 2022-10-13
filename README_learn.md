@@ -10,9 +10,9 @@ we directly put the attention function in the corresponding modeling file.
 ## TODO
 1. 跑通bert预训练代码 
    google search word: pretraining a transformer from scratch with transformers
-   参考 https://www.thepythoncode.com/article/pretraining-bert-huggingface-transformers-in-python
-        https://huggingface.co/blog/pretraining-bert
-        https://towardsdatascience.com/how-to-train-a-bert-model-from-scratch-72cfce554fc6
+   参考 https://www.thepythoncode.com/article/pretraining-bert-huggingface-transformers-in-python 值得学习
+        https://huggingface.co/blog/pretraining-bert 不好使
+        https://towardsdatascience.com/how-to-train-a-bert-model-from-scratch-72cfce554fc6 不好使
         https://d2l.ai/chapter_attention-mechanisms-and-transformers/large-pretraining-transformers.html(d2l学习)
 
 
